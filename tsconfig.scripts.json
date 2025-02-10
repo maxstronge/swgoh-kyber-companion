@@ -1,0 +1,15 @@
+{
+    // Optionally extend your main tsconfig to keep base settings (strict, etc.)
+    "extends": "./tsconfig.json",
+    
+    "compilerOptions": {
+      // Override just the bits you need for Node scripts:
+      "module": "CommonJS",
+      // We need "noEmit": false if we actually plan to compile, 
+      // but for ts-node in-memory transpilation, it's okay to keep noEmit or not.
+      "noEmit": true
+    },
+    // Include only the files in your scripts folder
+    "include": ["scripts/**/*"]
+  }
+  

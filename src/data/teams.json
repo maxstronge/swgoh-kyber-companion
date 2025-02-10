@@ -1,0 +1,1727 @@
+[
+  {
+    "id": "leia_organa_glo",
+    "name": "Leia Organa\r\n(GLO)",
+    "composition": [
+      "GLLEIA",
+      "CAPTAINDROGAN",
+      "R2D2_LEGENDARY",
+      "BAZEMALBUS",
+      "MONMOTHMA"
+    ],
+    "options": [
+      "OLDBENKENOBI",
+      "CAPTAINREX",
+      "KANANJARRUSS3"
+    ],
+    "overallScore": 9.5,
+    "overallRank": "GALACTIC LEGEND",
+    "gacOffense": 10,
+    "gacDefense": 9,
+    "gacOverall": 9.5,
+    "gacRank": "GALACTIC LEGEND",
+    "gacOmis": 0,
+    "twOffense": 10,
+    "twDefense": 9,
+    "twOverall": 9.5,
+    "twRank": "GALACTIC LEGEND",
+    "twOmis": 0
+  },
+  {
+    "id": "ahsoka_tano_at",
+    "name": "Ahsoka Tano\r\n(AT)",
+    "composition": [
+      "GLAHSOKATANO",
+      "EZRAEXILE",
+      "PADAWANSABINE",
+      "HUYANG",
+      "GENERALSYNDULLA"
+    ],
+    "options": [
+      "FULCRUMAHSOKA"
+    ],
+    "overallScore": 9.5,
+    "overallRank": "GALACTIC LEGEND",
+    "gacOffense": 10,
+    "gacDefense": 9,
+    "gacOverall": 9.5,
+    "gacRank": "GALACTIC LEGEND",
+    "gacOmis": 2,
+    "twOffense": 10,
+    "twDefense": 9,
+    "twOverall": 9.5,
+    "twRank": "GALACTIC LEGEND",
+    "twOmis": 1
+  },
+  {
+    "id": "jedi_master_kenobi_jmk",
+    "name": "Jedi Master Kenobi\r\n(JMK)",
+    "composition": [
+      "JEDIMASTERKENOBI",
+      "COMMANDERAHSOKA",
+      "AHSOKATANO",
+      "GENERALKENOBI",
+      "PADMEAMIDALA"
+    ],
+    "options": [
+      "MACEWINDU"
+    ],
+    "overallScore": 8.75,
+    "overallRank": "GALACTIC LEGEND",
+    "gacOffense": 9,
+    "gacDefense": 8,
+    "gacOverall": 8.5,
+    "gacRank": "GALACTIC LEGEND",
+    "gacOmis": 0,
+    "twOffense": 9,
+    "twDefense": 9,
+    "twOverall": 9,
+    "twRank": "GALACTIC LEGEND",
+    "twOmis": 0
+  },
+  {
+    "id": "jabba_the_hutt_jth",
+    "name": "Jabba the Hutt\r\n(JTH)",
+    "composition": [
+      "JABBATHEHUTT",
+      "BOUSHH",
+      "KRRSANTAN",
+      "UNDERCOVERLANDO",
+      "BOBAFETT"
+    ],
+    "options": [
+      "EMBO"
+    ],
+    "overallScore": 8.75,
+    "overallRank": "GALACTIC LEGEND",
+    "gacOffense": 9,
+    "gacDefense": 8,
+    "gacOverall": 8.5,
+    "gacRank": "GALACTIC LEGEND",
+    "gacOmis": 0,
+    "twOffense": 9,
+    "twDefense": 9,
+    "twOverall": 9,
+    "twRank": "GALACTIC LEGEND",
+    "twOmis": 1
+  },
+  {
+    "id": "lord_vader_lv",
+    "name": "Lord Vader\r\n(LV)",
+    "composition": [
+      "LORDVADER",
+      "ADMIRALPIETT",
+      "MAULS7",
+      "VADER",
+      "ROYALGUARD"
+    ],
+    "options": [
+      "GRANDADMIRALTHRAWN",
+      "NINTHSISTER",
+      "THIRDSISTER",
+      "GRANDINQUISITOR"
+    ],
+    "overallScore": 8.75,
+    "overallRank": "GALACTIC LEGEND",
+    "gacOffense": 9,
+    "gacDefense": 8,
+    "gacOverall": 8.5,
+    "gacRank": "GALACTIC LEGEND",
+    "gacOmis": 0,
+    "twOffense": 9,
+    "twDefense": 9,
+    "twOverall": 9,
+    "twRank": "GALACTIC LEGEND",
+    "twOmis": 0
+  },
+  {
+    "id": "rey",
+    "name": "Rey",
+    "composition": [
+      "GLREY",
+      "BENSOLO"
+    ],
+    "options": [
+      "CALKESTIS"
+    ],
+    "overallScore": 8.25,
+    "overallRank": "GALACTIC LEGEND",
+    "gacOffense": 8,
+    "gacDefense": 8,
+    "gacOverall": 8,
+    "gacRank": "GALACTIC LEGEND",
+    "gacOmis": 1,
+    "twOffense": 8,
+    "twDefense": 9,
+    "twOverall": 8.5,
+    "twRank": "GALACTIC LEGEND",
+    "twOmis": 0
+  },
+  {
+    "id": "supreme_leader_kylo_ren_slkr",
+    "name": "Supreme Leader Kylo Ren\r\n(SLKR)",
+    "composition": [
+      "SUPREMELEADERKYLOREN",
+      "GENERALHUX",
+      "DARKREY",
+      "FOSITHTROOPER",
+      "KYLORENUNMASKED"
+    ],
+    "options": [
+      "FIRSTORDEROFFICER"
+    ],
+    "overallScore": 8.25,
+    "overallRank": "GALACTIC LEGEND",
+    "gacOffense": 9,
+    "gacDefense": 8,
+    "gacOverall": 8.5,
+    "gacRank": "GALACTIC LEGEND",
+    "gacOmis": 0,
+    "twOffense": 9,
+    "twDefense": 7,
+    "twOverall": 8,
+    "twRank": "GALACTIC LEGEND",
+    "twOmis": 0
+  },
+  {
+    "id": "reva_inquisitors",
+    "name": "Reva Inquisitors",
+    "composition": [
+      "THIRDSISTER",
+      "GRANDINQUISITOR",
+      "SEVENTHSISTER",
+      "FIFTHBROTHER",
+      "EIGHTHBROTHER"
+    ],
+    "options": [
+      "SECONDSISTER",
+      "NINTHSISTER"
+    ],
+    "overallScore": 8,
+    "overallRank": "GALACTIC LEGEND",
+    "gacOffense": 9,
+    "gacDefense": 7,
+    "gacOverall": 8,
+    "gacRank": "GALACTIC LEGEND",
+    "gacOmis": 1,
+    "twOffense": 8,
+    "twDefense": 8,
+    "twOverall": 8,
+    "twRank": "GALACTIC LEGEND",
+    "twOmis": 2
+  },
+  {
+    "id": "jedi_master_luke_skywalker_jmls",
+    "name": "Jedi Master Luke Skywalker\r\n(JMLS)",
+    "composition": [
+      "GRANDMASTERLUKE",
+      "JEDIKNIGHTLUKE",
+      "HERMITYODA",
+      "JEDIKNIGHTCAL",
+      "JEDIKNIGHTREVAN"
+    ],
+    "options": [
+      "EZRAEXILE"
+    ],
+    "overallScore": 7.5,
+    "overallRank": "BESKAR",
+    "gacOffense": 8,
+    "gacDefense": 7,
+    "gacOverall": 7.5,
+    "gacRank": "BESKAR",
+    "gacOmis": 0,
+    "twOffense": 8,
+    "twDefense": 7,
+    "twOverall": 7.5,
+    "twRank": "BESKAR",
+    "twOmis": 0
+  },
+  {
+    "id": "sith_eternal_emperor_see",
+    "name": "Sith Eternal Emperor\r\n(SEE)",
+    "composition": [
+      "SITHPALPATINE",
+      "WATTAMBOR"
+    ],
+    "options": [],
+    "overallScore": 7.5,
+    "overallRank": "BESKAR",
+    "gacOffense": 8,
+    "gacDefense": 7,
+    "gacOverall": 7.5,
+    "gacRank": "BESKAR",
+    "gacOmis": 1,
+    "twOffense": 8,
+    "twDefense": 7,
+    "twOverall": 7.5,
+    "twRank": "BESKAR",
+    "twOmis": 0
+  },
+  {
+    "id": "great_mothers_gm",
+    "name": "Great Mothers\r\n(GM)",
+    "composition": [
+      "GREATMOTHERS",
+      "MORGANELSBETH"
+    ],
+    "options": [
+      "NIGHTTROOPER",
+      "DEATHTROOPERPERIDEA"
+    ],
+    "overallScore": 7.25,
+    "overallRank": "BESKAR",
+    "gacOffense": 7,
+    "gacDefense": 6,
+    "gacOverall": 6.5,
+    "gacRank": "BESKAR",
+    "gacOmis": 1,
+    "twOffense": 8,
+    "twDefense": 8,
+    "twOverall": 8,
+    "twRank": "GALACTIC LEGEND",
+    "twOmis": 1
+  },
+  {
+    "id": "baylan_skoll_bs",
+    "name": "Baylan Skoll\r\n(BS)",
+    "composition": [
+      "BAYLANSKOLL",
+      "SHINHATI",
+      "MARROK"
+    ],
+    "options": [
+      "QIRA",
+      "HONDO"
+    ],
+    "overallScore": 7,
+    "overallRank": "BESKAR",
+    "gacOffense": 8,
+    "gacDefense": 7,
+    "gacOverall": 7.5,
+    "gacRank": "BESKAR",
+    "gacOmis": 2,
+    "twOffense": 7,
+    "twDefense": 6,
+    "twOverall": 6.5,
+    "twRank": "BESKAR",
+    "twOmis": 1
+  },
+  {
+    "id": "starkiller_territory_wars_sk",
+    "name": "Starkiller\r\nTerritory Wars\r\n(SK)",
+    "composition": [
+      "EMPERORPALPATINE",
+      "MARAJADE",
+      "STARKILLER",
+      "JUHANI",
+      "VISASMARR"
+    ],
+    "options": [],
+    "overallScore": 7,
+    "overallRank": "BESKAR",
+    "gacOffense": 0,
+    "gacDefense": 0,
+    "gacOverall": 0,
+    "gacRank": "N/A",
+    "gacOmis": 0,
+    "twOffense": 7,
+    "twDefense": 7,
+    "twOverall": 7,
+    "twRank": "BESKAR",
+    "twOmis": 1
+  },
+  {
+    "id": "gungans",
+    "name": "Gungans",
+    "composition": [
+      "BOSSNASS",
+      "JARJARBINKS",
+      "CAPTAINTARPALS",
+      "GUNGANPHALANX",
+      "BOOMADIER"
+    ],
+    "options": [],
+    "overallScore": 7,
+    "overallRank": "BESKAR",
+    "gacOffense": 7,
+    "gacDefense": 7,
+    "gacOverall": 7,
+    "gacRank": "BESKAR",
+    "gacOmis": 2,
+    "twOffense": 7,
+    "twDefense": 7,
+    "twOverall": 7,
+    "twRank": "BESKAR",
+    "twOmis": 1
+  },
+  {
+    "id": "bo_katan_mand_alor",
+    "name": "Bo Katan (Mand'alor)",
+    "composition": [
+      ""
+    ],
+    "options": [],
+    "overallScore": 7,
+    "overallRank": "BESKAR",
+    "gacOffense": 7,
+    "gacDefense": 7,
+    "gacOverall": 7,
+    "gacRank": "BESKAR",
+    "gacOmis": 1,
+    "twOffense": 7,
+    "twDefense": 7,
+    "twOverall": 7,
+    "twRank": "BESKAR",
+    "twOmis": 0
+  },
+  {
+    "id": "queen_amidala_quadme",
+    "name": "Queen Amidala\r\n(Quadme)",
+    "composition": [
+      "QUEENAMIDALA",
+      "PADAWANOBIWAN",
+      "MASTERQUIGON"
+    ],
+    "options": [
+      "GRANDMASTERYODA",
+      "SHAAKTI",
+      "BADBATCHECHO"
+    ],
+    "overallScore": 7,
+    "overallRank": "BESKAR",
+    "gacOffense": 7,
+    "gacDefense": 8,
+    "gacOverall": 7.5,
+    "gacRank": "BESKAR",
+    "gacOmis": 2,
+    "twOffense": 6,
+    "twDefense": 7,
+    "twOverall": 6.5,
+    "twRank": "BESKAR",
+    "twOmis": 1
+  },
+  {
+    "id": "taron_malicos_unaligned_force_users_ufu",
+    "name": "Taron Malicos\r\nUnaligned Force Users\r\n(UFU)",
+    "composition": [
+      "CEREJUNDA",
+      "TARONMALICOS",
+      "CALKESTIS",
+      "FULCRUMAHSOKA",
+      "KYLOREN"
+    ],
+    "options": [
+      "KYLORENUNMASKED"
+    ],
+    "overallScore": 7,
+    "overallRank": "BESKAR",
+    "gacOffense": 7,
+    "gacDefense": 8,
+    "gacOverall": 7.5,
+    "gacRank": "BESKAR",
+    "gacOmis": 4,
+    "twOffense": 6,
+    "twDefense": 7,
+    "twOverall": 6.5,
+    "twRank": "BESKAR",
+    "twOmis": 2
+  },
+  {
+    "id": "starkiller_grand_arena_sk",
+    "name": "Starkiller\r\nGrand Arena\r\n(SK)",
+    "composition": [
+      "EMPERORPALPATINE",
+      "MARAJADE",
+      "STARKILLER",
+      "JUHANI",
+      "VISASMARR"
+    ],
+    "options": [],
+    "overallScore": 7,
+    "overallRank": "BESKAR",
+    "gacOffense": 8,
+    "gacDefense": 6,
+    "gacOverall": 7,
+    "gacRank": "BESKAR",
+    "gacOmis": 1,
+    "twOffense": 0,
+    "twDefense": 0,
+    "twOverall": 0,
+    "twRank": "N/A",
+    "twOmis": 0
+  },
+  {
+    "id": "darth_bane",
+    "name": "Darth Bane",
+    "composition": [
+      "DARTHBANE",
+      "SITHASSASSIN"
+    ],
+    "options": [
+      "SITHTROOPER",
+      "COUNTDOOKU",
+      "MAUL",
+      "DARTHTALON"
+    ],
+    "overallScore": 6.75,
+    "overallRank": "BESKAR",
+    "gacOffense": 10,
+    "gacDefense": 3,
+    "gacOverall": 6.5,
+    "gacRank": "BESKAR",
+    "gacOmis": 1,
+    "twOffense": 10,
+    "twDefense": 4,
+    "twOverall": 7,
+    "twRank": "BESKAR",
+    "twOmis": 0
+  },
+  {
+    "id": "dark_trooper_moff_gideon_dtmg",
+    "name": "Dark Trooper Moff Gideon\r\n(DTMG)",
+    "composition": [
+      "MOFFGIDEONS3",
+      "SCOUTTROOPER_V3",
+      "STORMTROOPER",
+      "DEATHTROOPER",
+      "MOFFGIDEONS1"
+    ],
+    "options": [
+      "TIEFIGHTERPILOT"
+    ],
+    "overallScore": 6.75,
+    "overallRank": "BESKAR",
+    "gacOffense": 6,
+    "gacDefense": 6,
+    "gacOverall": 6,
+    "gacRank": "BESKAR",
+    "gacOmis": 0,
+    "twOffense": 7,
+    "twDefense": 8,
+    "twOverall": 7.5,
+    "twRank": "BESKAR",
+    "twOmis": 2
+  },
+  {
+    "id": "darth_malgus",
+    "name": "Darth Malgus",
+    "composition": [
+      "DARTHMALGUS",
+      "DARTHREVAN",
+      "DARTHMALAK",
+      "BASTILASHANDARK",
+      "SITHMARAUDER"
+    ],
+    "options": [
+      "SITHTROOPER"
+    ],
+    "overallScore": 6.5,
+    "overallRank": "BESKAR",
+    "gacOffense": 7,
+    "gacDefense": 6,
+    "gacOverall": 6.5,
+    "gacRank": "BESKAR",
+    "gacOmis": 2,
+    "twOffense": 6,
+    "twDefense": 7,
+    "twOverall": 6.5,
+    "twRank": "BESKAR",
+    "twOmis": 0
+  },
+  {
+    "id": "mauldalorians_maul",
+    "name": "Mauldalorians\r\n(Maul)",
+    "composition": [
+      "MAULS7",
+      "GARSAXON",
+      "CANDEROUSORDO",
+      "JANGOFETT",
+      "IMPERIALSUPERCOMMANDO"
+    ],
+    "options": [],
+    "overallScore": 6.25,
+    "overallRank": "BESKAR",
+    "gacOffense": 8,
+    "gacDefense": 4,
+    "gacOverall": 6,
+    "gacRank": "BESKAR",
+    "gacOmis": 0,
+    "twOffense": 8,
+    "twDefense": 5,
+    "twOverall": 6.5,
+    "twRank": "BESKAR",
+    "twOmis": 0
+  },
+  {
+    "id": "general_skywalker_501st_with_captain_rex",
+    "name": "General Skywalker 501st\r\nwith Captain Rex",
+    "composition": [
+      "GENERALSKYWALKER"
+    ],
+    "options": [],
+    "overallScore": 6,
+    "overallRank": "BESKAR",
+    "gacOffense": 6,
+    "gacDefense": 6,
+    "gacOverall": 6,
+    "gacRank": "BESKAR",
+    "gacOmis": 0,
+    "twOffense": 6,
+    "twDefense": 6,
+    "twOverall": 6,
+    "twRank": "BESKAR",
+    "twOmis": 0
+  },
+  {
+    "id": "sith_triumvirate_traya",
+    "name": "Sith Triumvirate\r\n(Traya)",
+    "composition": [
+      "DARTHTRAYA",
+      "DARTHNIHILUS",
+      "SAVAGEOPRESS",
+      "DARTHTALON",
+      "SITHTROOPER"
+    ],
+    "options": [
+      "DARTHSION"
+    ],
+    "overallScore": 5.25,
+    "overallRank": "KYBER",
+    "gacOffense": 6,
+    "gacDefense": 6,
+    "gacOverall": 6,
+    "gacRank": "BESKAR",
+    "gacOmis": 2,
+    "twOffense": 5,
+    "twDefense": 4,
+    "twOverall": 4.5,
+    "twRank": "KYBER",
+    "twOmis": 0
+  },
+  {
+    "id": "mon_mothma_w_luthen_rael_mm",
+    "name": "Mon Mothma w/ Luthen Rael\r\n(MM)",
+    "composition": [
+      "MONMOTHMA",
+      "LUTHENRAEL",
+      "KYLEKATARN",
+      "CARADUNE",
+      "PAO"
+    ],
+    "options": [],
+    "overallScore": 5.25,
+    "overallRank": "KYBER",
+    "gacOffense": 7,
+    "gacDefense": 4,
+    "gacOverall": 5.5,
+    "gacRank": "KYBER",
+    "gacOmis": 1,
+    "twOffense": 6,
+    "twDefense": 4,
+    "twOverall": 5,
+    "twRank": "KYBER",
+    "twOmis": 0
+  },
+  {
+    "id": "saw_gerrera_w_luthen_rael",
+    "name": "Saw Gerrera w/ Luthen Rael",
+    "composition": [
+      ""
+    ],
+    "options": [],
+    "overallScore": 5.25,
+    "overallRank": "KYBER",
+    "gacOffense": 6,
+    "gacDefense": 7,
+    "gacOverall": 6.5,
+    "gacRank": "KYBER",
+    "gacOmis": 2,
+    "twOffense": 4,
+    "twDefense": 4,
+    "twOverall": 4,
+    "twRank": "KYBER",
+    "twOmis": 0
+  },
+  {
+    "id": "captain_rex_phoenix",
+    "name": "Captain Rex Phoenix",
+    "composition": [
+      ""
+    ],
+    "options": [],
+    "overallScore": 5,
+    "overallRank": "KYBER",
+    "gacOffense": 5,
+    "gacDefense": 4,
+    "gacOverall": 4.5,
+    "gacRank": "KYBER",
+    "gacOmis": 1,
+    "twOffense": 6,
+    "twDefense": 5,
+    "twOverall": 5.5,
+    "twRank": "KYBER",
+    "twOmis": 1
+  },
+  {
+    "id": "padme_commander_tano",
+    "name": "Padme Commander Tano",
+    "composition": [
+      ""
+    ],
+    "options": [],
+    "overallScore": 5,
+    "overallRank": "KYBER",
+    "gacOffense": 6,
+    "gacDefense": 3,
+    "gacOverall": 4.5,
+    "gacRank": "KYBER",
+    "gacOmis": 0,
+    "twOffense": 7,
+    "twDefense": 4,
+    "twOverall": 5.5,
+    "twRank": "KYBER",
+    "twOmis": 0
+  },
+  {
+    "id": "general_grievous_gg",
+    "name": "General Grievous\r\n(GG)",
+    "composition": [
+      "GRIEVOUS"
+    ],
+    "options": [
+      "NUTEGUNRAY"
+    ],
+    "overallScore": 5,
+    "overallRank": "KYBER",
+    "gacOffense": 5,
+    "gacDefense": 4,
+    "gacOverall": 4.5,
+    "gacRank": "KYBER",
+    "gacOmis": 1,
+    "twOffense": 6,
+    "twDefense": 5,
+    "twOverall": 5.5,
+    "twRank": "BESKAR",
+    "twOmis": 1
+  },
+  {
+    "id": "zorii_resistance",
+    "name": "Zorii Resistance",
+    "composition": [
+      ""
+    ],
+    "options": [],
+    "overallScore": 5,
+    "overallRank": "BESKAR",
+    "gacOffense": 6,
+    "gacDefense": 4,
+    "gacOverall": 5,
+    "gacRank": "BESKAR",
+    "gacOmis": 1,
+    "twOffense": 6,
+    "twDefense": 4,
+    "twOverall": 5,
+    "twRank": "BESKAR",
+    "twOmis": 0
+  },
+  {
+    "id": "nightsisters_ns",
+    "name": "Nightsisters\r\n(NS)",
+    "composition": [
+      ""
+    ],
+    "options": [],
+    "overallScore": 5,
+    "overallRank": "KYBER",
+    "gacOffense": 5,
+    "gacDefense": 5,
+    "gacOverall": 5,
+    "gacRank": "KYBER",
+    "gacOmis": 1,
+    "twOffense": 5,
+    "twDefense": 5,
+    "twOverall": 5,
+    "twRank": "KYBER",
+    "twOmis": 0
+  },
+  {
+    "id": "general_anakin_skywalker_501st_gas",
+    "name": "General Anakin Skywalker 501st\r\n(GAS)",
+    "composition": [
+      ""
+    ],
+    "options": [],
+    "overallScore": 5,
+    "overallRank": "KYBER",
+    "gacOffense": 5,
+    "gacDefense": 5,
+    "gacOverall": 5,
+    "gacRank": "KYBER",
+    "gacOmis": 0,
+    "twOffense": 5,
+    "twDefense": 5,
+    "twOverall": 5,
+    "twRank": "KYBER",
+    "twOmis": 0
+  },
+  {
+    "id": "commander_luke_skywalker_cls",
+    "name": "Commander Luke Skywalker\r\n(CLS)",
+    "composition": [
+      ""
+    ],
+    "options": [],
+    "overallScore": 5,
+    "overallRank": "KYBER",
+    "gacOffense": 5,
+    "gacDefense": 5,
+    "gacOverall": 5,
+    "gacRank": "KYBER",
+    "gacOmis": 0,
+    "twOffense": 5,
+    "twDefense": 5,
+    "twOverall": 5,
+    "twRank": "KYBER",
+    "twOmis": 0
+  },
+  {
+    "id": "dr_aphra",
+    "name": "Dr. Aphra",
+    "composition": [
+      ""
+    ],
+    "options": [],
+    "overallScore": 5,
+    "overallRank": "KYBER",
+    "gacOffense": 6,
+    "gacDefense": 5,
+    "gacOverall": 5.5,
+    "gacRank": "KYBER",
+    "gacOmis": 2,
+    "twOffense": 5,
+    "twDefense": 4,
+    "twOverall": 4.5,
+    "twRank": "KYBER",
+    "twOmis": 0
+  },
+  {
+    "id": "darth_revan_savage_opress_grand_arena_only_dr",
+    "name": "Darth Revan + Savage Opress\r\nGrand Arena Only\r\n(DR)",
+    "composition": [
+      ""
+    ],
+    "options": [],
+    "overallScore": 5,
+    "overallRank": "KYBER",
+    "gacOffense": 5,
+    "gacDefense": 5,
+    "gacOverall": 5,
+    "gacRank": "KYBER",
+    "gacOmis": 1,
+    "twOffense": 0,
+    "twDefense": 0,
+    "twOverall": 0,
+    "twRank": "N/A",
+    "twOmis": 0
+  },
+  {
+    "id": "qui_gon_jinn_grand_arena_only_qgj",
+    "name": "Qui-Gon Jinn\r\nGrand Arena Only\r\n(QGJ)",
+    "composition": [
+      ""
+    ],
+    "options": [],
+    "overallScore": 5,
+    "overallRank": "KYBER",
+    "gacOffense": 6,
+    "gacDefense": 4,
+    "gacOverall": 5,
+    "gacRank": "KYBER",
+    "gacOmis": 1,
+    "twOffense": 0,
+    "twDefense": 0,
+    "twOverall": 0,
+    "twRank": "N/A",
+    "twOmis": 0
+  },
+  {
+    "id": "jedi_knight_revan_jedi_knight_luke_jkr",
+    "name": "Jedi Knight Revan + Jedi Knight Luke\r\n(JKR)",
+    "composition": [
+      ""
+    ],
+    "options": [],
+    "overallScore": 5,
+    "overallRank": "KYBER",
+    "gacOffense": 6,
+    "gacDefense": 4,
+    "gacOverall": 5,
+    "gacRank": "KYBER",
+    "gacOmis": 0,
+    "twOffense": 6,
+    "twDefense": 4,
+    "twOverall": 5,
+    "twRank": "KYBER",
+    "twOmis": 0
+  },
+  {
+    "id": "wampa_solo",
+    "name": "Wampa Solo",
+    "composition": [
+      ""
+    ],
+    "options": [],
+    "overallScore": 5,
+    "overallRank": "KYBER",
+    "gacOffense": 5,
+    "gacDefense": 0,
+    "gacOverall": 5,
+    "gacRank": "KYBER",
+    "gacOmis": 1,
+    "twOffense": 0,
+    "twDefense": 0,
+    "twOverall": 0,
+    "twRank": "N/A",
+    "twOmis": 0
+  },
+  {
+    "id": "savage_opress_solo",
+    "name": "Savage Opress Solo",
+    "composition": [
+      "SAVAGEOPRESS"
+    ],
+    "options": [],
+    "overallScore": 5,
+    "overallRank": "KYBER",
+    "gacOffense": 5,
+    "gacDefense": 0,
+    "gacOverall": 5,
+    "gacRank": "KYBER",
+    "gacOmis": 1,
+    "twOffense": 0,
+    "twDefense": 0,
+    "twOverall": 0,
+    "twRank": "N/A",
+    "twOmis": 0
+  },
+  {
+    "id": "grand_inquisitor_gi",
+    "name": "Grand Inquisitor\r\n(GI)",
+    "composition": [
+      ""
+    ],
+    "options": [],
+    "overallScore": 5,
+    "overallRank": "KYBER",
+    "gacOffense": 4,
+    "gacDefense": 4,
+    "gacOverall": 4,
+    "gacRank": "KYBER",
+    "gacOmis": 0,
+    "twOffense": 6,
+    "twDefense": 6,
+    "twOverall": 6,
+    "twRank": "BESKAR",
+    "twOmis": 3
+  },
+  {
+    "id": "admiral_trench",
+    "name": "Admiral Trench",
+    "composition": [
+      ""
+    ],
+    "options": [],
+    "overallScore": 5,
+    "overallRank": "KYBER",
+    "gacOffense": 4,
+    "gacDefense": 3,
+    "gacOverall": 3.5,
+    "gacRank": "AURODIUM",
+    "gacOmis": 0,
+    "twOffense": 6,
+    "twDefense": 7,
+    "twOverall": 6.5,
+    "twRank": "BESKAR",
+    "twOmis": 2
+  },
+  {
+    "id": "ahsoka_tano_fulcrum_solo_atf",
+    "name": "Ahsoka Tano (Fulcrum) Solo\r\n(ATF)",
+    "composition": [
+      "FULCRUMAHSOKA"
+    ],
+    "options": [],
+    "overallScore": 5,
+    "overallRank": "KYBER",
+    "gacOffense": 0,
+    "gacDefense": 0,
+    "gacOverall": 0,
+    "gacRank": "N/A",
+    "gacOmis": 0,
+    "twOffense": 5,
+    "twDefense": 0,
+    "twOverall": 5,
+    "twRank": "KYBER",
+    "twOmis": 1
+  },
+  {
+    "id": "kelleran_beq_kb",
+    "name": "Kelleran Beq\r\n(KB)",
+    "composition": [
+      ""
+    ],
+    "options": [],
+    "overallScore": 4.75,
+    "overallRank": "KYBER",
+    "gacOffense": 4,
+    "gacDefense": 4,
+    "gacOverall": 4,
+    "gacRank": "KYBER",
+    "gacOmis": 0,
+    "twOffense": 5,
+    "twDefense": 6,
+    "twOverall": 5.5,
+    "twRank": "BESKAR",
+    "twOmis": 1
+  },
+  {
+    "id": "moff_gideon_imperial_remnants_ir",
+    "name": "Moff Gideon Imperial Remnants\r\n(IR)",
+    "composition": [
+      ""
+    ],
+    "options": [],
+    "overallScore": 4.75,
+    "overallRank": "KYBER",
+    "gacOffense": 5,
+    "gacDefense": 3,
+    "gacOverall": 4,
+    "gacRank": "KYBER",
+    "gacOmis": 0,
+    "twOffense": 6,
+    "twDefense": 5,
+    "twOverall": 5.5,
+    "twRank": "KYBER",
+    "twOmis": 0
+  },
+  {
+    "id": "jedi_knight_cal_kestis_jkck",
+    "name": "Jedi Knight Cal Kestis\r\n(JKCK)",
+    "composition": [
+      ""
+    ],
+    "options": [],
+    "overallScore": 4.5,
+    "overallRank": "KYBER",
+    "gacOffense": 6,
+    "gacDefense": 3,
+    "gacOverall": 4.5,
+    "gacRank": "KYBER",
+    "gacOmis": 0,
+    "twOffense": 6,
+    "twDefense": 3,
+    "twOverall": 4.5,
+    "twRank": "KYBER",
+    "twOmis": 0
+  },
+  {
+    "id": "vanilla_darth_revan_dr",
+    "name": "Vanilla Darth Revan\r\n(DR)",
+    "composition": [
+      ""
+    ],
+    "options": [],
+    "overallScore": 4.5,
+    "overallRank": "KYBER",
+    "gacOffense": 5,
+    "gacDefense": 4,
+    "gacOverall": 4.5,
+    "gacRank": "KYBER",
+    "gacOmis": 0,
+    "twOffense": 5,
+    "twDefense": 4,
+    "twOverall": 4.5,
+    "twRank": "KYBER",
+    "twOmis": 0
+  },
+  {
+    "id": "tuskens",
+    "name": "Tuskens",
+    "composition": [
+      ""
+    ],
+    "options": [],
+    "overallScore": 4.5,
+    "overallRank": "KYBER",
+    "gacOffense": 4,
+    "gacDefense": 5,
+    "gacOverall": 4.5,
+    "gacRank": "KYBER",
+    "gacOmis": 0,
+    "twOffense": 4,
+    "twDefense": 5,
+    "twOverall": 4.5,
+    "twRank": "KYBER",
+    "twOmis": 0
+  },
+  {
+    "id": "iden_versio_special_forces_iv",
+    "name": "Iden Versio Special Forces\r\n(IV)",
+    "composition": [
+      ""
+    ],
+    "options": [],
+    "overallScore": 4.5,
+    "overallRank": "KYBER",
+    "gacOffense": 5,
+    "gacDefense": 5,
+    "gacOverall": 5,
+    "gacRank": "KYBER",
+    "gacOmis": 1,
+    "twOffense": 4,
+    "twDefense": 4,
+    "twOverall": 4,
+    "twRank": "KYBER",
+    "twOmis": 0
+  },
+  {
+    "id": "sana_starros_ss",
+    "name": "Sana Starros\r\n(SS)",
+    "composition": [
+      ""
+    ],
+    "options": [],
+    "overallScore": 4.5,
+    "overallRank": "KYBER",
+    "gacOffense": 5,
+    "gacDefense": 4,
+    "gacOverall": 4.5,
+    "gacRank": "KYBER",
+    "gacOmis": 0,
+    "twOffense": 5,
+    "twDefense": 4,
+    "twOverall": 4.5,
+    "twRank": "KYBER",
+    "twOmis": 0
+  },
+  {
+    "id": "cere_junda_unaligned_force_users_cj",
+    "name": "Cere Junda\r\nUnaligned Force Users\r\n(CJ)",
+    "composition": [
+      ""
+    ],
+    "options": [],
+    "overallScore": 4.5,
+    "overallRank": "KYBER",
+    "gacOffense": 4,
+    "gacDefense": 4,
+    "gacOverall": 4,
+    "gacRank": "KYBER",
+    "gacOmis": 1,
+    "twOffense": 5,
+    "twDefense": 5,
+    "twOverall": 5,
+    "twRank": "KYBER",
+    "twOmis": 2
+  },
+  {
+    "id": "bad_batch_bb",
+    "name": "Bad Batch\r\n(BB)",
+    "composition": [
+      ""
+    ],
+    "options": [],
+    "overallScore": 4.25,
+    "overallRank": "KYBER",
+    "gacOffense": 5,
+    "gacDefense": 3,
+    "gacOverall": 4,
+    "gacRank": "KYBER",
+    "gacOmis": 0,
+    "twOffense": 6,
+    "twDefense": 3,
+    "twOverall": 4.5,
+    "twRank": "KYBER",
+    "twOmis": 0
+  },
+  {
+    "id": "boba_fett_scion_of_jango_soj",
+    "name": "Boba Fett Scion of Jango\r\n(SOJ)",
+    "composition": [
+      ""
+    ],
+    "options": [],
+    "overallScore": 4.25,
+    "overallRank": "KYBER",
+    "gacOffense": 3,
+    "gacDefense": 3,
+    "gacOverall": 3,
+    "gacRank": "AURODIUM",
+    "gacOmis": 0,
+    "twOffense": 7,
+    "twDefense": 4,
+    "twOverall": 5.5,
+    "twRank": "KYBER",
+    "twOmis": 1
+  },
+  {
+    "id": "rogue_one_ro",
+    "name": "Rogue One\r\n(RO)",
+    "composition": [
+      ""
+    ],
+    "options": [],
+    "overallScore": 4.25,
+    "overallRank": "KYBER",
+    "gacOffense": 5,
+    "gacDefense": 5,
+    "gacOverall": 5,
+    "gacRank": "KYBER",
+    "gacOmis": 1,
+    "twOffense": 3,
+    "twDefense": 4,
+    "twOverall": 3.5,
+    "twRank": "KYBER",
+    "twOmis": 0
+  },
+  {
+    "id": "emperor_palpatine_ep",
+    "name": "Emperor Palpatine\r\n(EP)",
+    "composition": [
+      ""
+    ],
+    "options": [],
+    "overallScore": 4,
+    "overallRank": "KYBER",
+    "gacOffense": 4,
+    "gacDefense": 3,
+    "gacOverall": 3.5,
+    "gacRank": "KYBER",
+    "gacOmis": 0,
+    "twOffense": 5,
+    "twDefense": 4,
+    "twOverall": 4.5,
+    "twRank": "BESKAR",
+    "twOmis": 1
+  },
+  {
+    "id": "veers_imperial_troopers_it",
+    "name": "Veers Imperial Troopers\r\n(IT)",
+    "composition": [
+      ""
+    ],
+    "options": [],
+    "overallScore": 4,
+    "overallRank": "KYBER",
+    "gacOffense": 5,
+    "gacDefense": 3,
+    "gacOverall": 4,
+    "gacRank": "KYBER",
+    "gacOmis": 0,
+    "twOffense": 5,
+    "twDefense": 3,
+    "twOverall": 4,
+    "twRank": "KYBER",
+    "twOmis": 0
+  },
+  {
+    "id": "dash_rendar_dash",
+    "name": "Dash Rendar\r\n(Dash)",
+    "composition": [
+      ""
+    ],
+    "options": [],
+    "overallScore": 4,
+    "overallRank": "KYBER",
+    "gacOffense": 4,
+    "gacDefense": 4,
+    "gacOverall": 4,
+    "gacRank": "KYBER",
+    "gacOmis": 1,
+    "twOffense": 4,
+    "twDefense": 4,
+    "twOverall": 4,
+    "twRank": "KYBER",
+    "twOmis": 0
+  },
+  {
+    "id": "jedi_knight_luke_skywalker_jkl",
+    "name": "Jedi Knight Luke Skywalker\r\n(JKL)",
+    "composition": [
+      ""
+    ],
+    "options": [],
+    "overallScore": 4,
+    "overallRank": "KYBER",
+    "gacOffense": 5,
+    "gacDefense": 3,
+    "gacOverall": 4,
+    "gacRank": "KYBER",
+    "gacOmis": 0,
+    "twOffense": 5,
+    "twDefense": 3,
+    "twOverall": 4,
+    "twRank": "KYBER",
+    "twOmis": 0
+  },
+  {
+    "id": "shaak_ti_clones",
+    "name": "Shaak Ti Clones",
+    "composition": [
+      ""
+    ],
+    "options": [],
+    "overallScore": 4,
+    "overallRank": "KYBER",
+    "gacOffense": 4,
+    "gacDefense": 4,
+    "gacOverall": 4,
+    "gacRank": "KYBER",
+    "gacOmis": 0,
+    "twOffense": 4,
+    "twDefense": 4,
+    "twOverall": 4,
+    "twRank": "KYBER",
+    "twOmis": 0
+  },
+  {
+    "id": "geonosians_geos",
+    "name": "Geonosians\r\n(Geos)",
+    "composition": [
+      ""
+    ],
+    "options": [],
+    "overallScore": 3.75,
+    "overallRank": "AURODIUM",
+    "gacOffense": 3,
+    "gacDefense": 2,
+    "gacOverall": 2.5,
+    "gacRank": "CHROMIUM",
+    "gacOmis": 0,
+    "twOffense": 5,
+    "twDefense": 5,
+    "twOverall": 5,
+    "twRank": "KYBER",
+    "twOmis": 1
+  },
+  {
+    "id": "bounty_hunters_bh",
+    "name": "Bounty Hunters\r\n(BH)",
+    "composition": [
+      ""
+    ],
+    "options": [],
+    "overallScore": 3.75,
+    "overallRank": "AURODIUM",
+    "gacOffense": 4,
+    "gacDefense": 4,
+    "gacOverall": 4,
+    "gacRank": "KYBER",
+    "gacOmis": 1,
+    "twOffense": 4,
+    "twDefense": 3,
+    "twOverall": 3.5,
+    "twRank": "AURODIUM",
+    "twOmis": 0
+  },
+  {
+    "id": "enoch_imperial_remnants",
+    "name": "Enoch Imperial Remnants",
+    "composition": [
+      ""
+    ],
+    "options": [],
+    "overallScore": 3.75,
+    "overallRank": "AURODIUM",
+    "gacOffense": 5,
+    "gacDefense": 4,
+    "gacOverall": 4.5,
+    "gacRank": "KYBER",
+    "gacOmis": 0,
+    "twOffense": 4,
+    "twDefense": 2,
+    "twOverall": 3,
+    "twRank": "AURODIUM",
+    "twOmis": 0
+  },
+  {
+    "id": "mon_mothma_mm",
+    "name": "Mon Mothma\r\n(MM)",
+    "composition": [
+      ""
+    ],
+    "options": [],
+    "overallScore": 3.5,
+    "overallRank": "AURODIUM",
+    "gacOffense": 4,
+    "gacDefense": 3,
+    "gacOverall": 3.5,
+    "gacRank": "AURODIUM",
+    "gacOmis": 0,
+    "twOffense": 4,
+    "twDefense": 3,
+    "twOverall": 3.5,
+    "twRank": "AURODIUM",
+    "twOmis": 0
+  },
+  {
+    "id": "rey_jedi_training_jtr",
+    "name": "Rey (Jedi Training)\r\n(JTR)",
+    "composition": [
+      ""
+    ],
+    "options": [],
+    "overallScore": 3.5,
+    "overallRank": "AURODIUM",
+    "gacOffense": 4,
+    "gacDefense": 3,
+    "gacOverall": 3.5,
+    "gacRank": "AURODIUM",
+    "gacOmis": 0,
+    "twOffense": 4,
+    "twDefense": 3,
+    "twOverall": 3.5,
+    "twRank": "AURODIUM",
+    "twOmis": 0
+  },
+  {
+    "id": "first_order_vanilla",
+    "name": "First Order (Vanilla)",
+    "composition": [
+      ""
+    ],
+    "options": [],
+    "overallScore": 3.5,
+    "overallRank": "AURODIUM",
+    "gacOffense": 3,
+    "gacDefense": 4,
+    "gacOverall": 3.5,
+    "gacRank": "AURODIUM",
+    "gacOmis": 0,
+    "twOffense": 3,
+    "twDefense": 4,
+    "twOverall": 3.5,
+    "twRank": "AURODIUM",
+    "twOmis": 0
+  },
+  {
+    "id": "50r_t_sortie",
+    "name": "50R-T\r\n(Sortie)",
+    "composition": [
+      ""
+    ],
+    "options": [],
+    "overallScore": 3.5,
+    "overallRank": "AURODIUM",
+    "gacOffense": 3,
+    "gacDefense": 4,
+    "gacOverall": 3.5,
+    "gacRank": "AURODIUM",
+    "gacOmis": 0,
+    "twOffense": 3,
+    "twDefense": 4,
+    "twOverall": 3.5,
+    "twRank": "AURODIUM",
+    "twOmis": 0
+  },
+  {
+    "id": "jedi_knight_revan_vanilla_jkr",
+    "name": "Jedi Knight Revan (Vanilla)\r\n(JKR)",
+    "composition": [
+      ""
+    ],
+    "options": [],
+    "overallScore": 3.5,
+    "overallRank": "AURODIUM",
+    "gacOffense": 4,
+    "gacDefense": 3,
+    "gacOverall": 3.5,
+    "gacRank": "AURODIUM",
+    "gacOmis": 0,
+    "twOffense": 4,
+    "twDefense": 3,
+    "twOverall": 3.5,
+    "twRank": "AURODIUM",
+    "twOmis": 0
+  },
+  {
+    "id": "first_order_tie_pilot_omicron_fo",
+    "name": "First Order (TIE Pilot Omicron)\r\n(FO)",
+    "composition": [
+      ""
+    ],
+    "options": [],
+    "overallScore": 3.25,
+    "overallRank": "AURODIUM",
+    "gacOffense": 4,
+    "gacDefense": 3,
+    "gacOverall": 3.5,
+    "gacRank": "AURODIUM",
+    "gacOmis": 1,
+    "twOffense": 3,
+    "twDefense": 3,
+    "twOverall": 3,
+    "twRank": "AURODIUM",
+    "twOmis": 1
+  },
+  {
+    "id": "ewoks",
+    "name": "Ewoks",
+    "composition": [
+      ""
+    ],
+    "options": [],
+    "overallScore": 3.25,
+    "overallRank": "AURODIUM",
+    "gacOffense": 4,
+    "gacDefense": 3,
+    "gacOverall": 3.5,
+    "gacRank": "AURODIUM",
+    "gacOmis": 1,
+    "twOffense": 3,
+    "twDefense": 3,
+    "twOverall": 3,
+    "twRank": "AURODIUM",
+    "twOmis": 0
+  },
+  {
+    "id": "captain_phasma_cp",
+    "name": "Captain Phasma\r\n(CP)",
+    "composition": [
+      ""
+    ],
+    "options": [],
+    "overallScore": 3.25,
+    "overallRank": "AURODIUM",
+    "gacOffense": 2,
+    "gacDefense": 2,
+    "gacOverall": 2,
+    "gacRank": "CHROMIUM",
+    "gacOmis": 0,
+    "twOffense": 5,
+    "twDefense": 4,
+    "twOverall": 4.5,
+    "twRank": "KYBER",
+    "twOmis": 1
+  },
+  {
+    "id": "the_mandalorian_beksar_armor_bam",
+    "name": "The Mandalorian (Beksar Armor)\r\n(BAM)",
+    "composition": [
+      ""
+    ],
+    "options": [],
+    "overallScore": 3,
+    "overallRank": "AURODIUM",
+    "gacOffense": 3,
+    "gacDefense": 3,
+    "gacOverall": 3,
+    "gacRank": "AURODIUM",
+    "gacOmis": 0,
+    "twOffense": 3,
+    "twDefense": 3,
+    "twOverall": 3,
+    "twRank": "AURODIUM",
+    "twOmis": 0
+  },
+  {
+    "id": "padme_amidala_vanilla",
+    "name": "Padme Amidala (Vanilla)",
+    "composition": [
+      ""
+    ],
+    "options": [],
+    "overallScore": 3,
+    "overallRank": "AURODIUM",
+    "gacOffense": 3,
+    "gacDefense": 3,
+    "gacOverall": 3,
+    "gacRank": "AURODIUM",
+    "gacOmis": 0,
+    "twOffense": 3,
+    "twDefense": 3,
+    "twOverall": 3,
+    "twRank": "AURODIUM",
+    "twOmis": 0
+  },
+  {
+    "id": "wookiees",
+    "name": "Wookiees",
+    "composition": [
+      ""
+    ],
+    "options": [],
+    "overallScore": 2.75,
+    "overallRank": "CHROMIUM",
+    "gacOffense": 2,
+    "gacDefense": 3,
+    "gacOverall": 2.5,
+    "gacRank": "CHROMIUM",
+    "gacOmis": 0,
+    "twOffense": 3,
+    "twDefense": 3,
+    "twOverall": 3,
+    "twRank": "AURODIUM",
+    "twOmis": 1
+  },
+  {
+    "id": "mandalorians_light_side",
+    "name": "Mandalorians (Light Side)",
+    "composition": [
+      ""
+    ],
+    "options": [],
+    "overallScore": 2.5,
+    "overallRank": "CHROMIUM",
+    "gacOffense": 3,
+    "gacDefense": 2,
+    "gacOverall": 2.5,
+    "gacRank": "CHROMIUM",
+    "gacOmis": 0,
+    "twOffense": 3,
+    "twDefense": 2,
+    "twOverall": 2.5,
+    "twRank": "CHROMIUM",
+    "twOmis": 0
+  },
+  {
+    "id": "admiral_ackbar_aa",
+    "name": "Admiral Ackbar\r\n(AA)",
+    "composition": [
+      ""
+    ],
+    "options": [],
+    "overallScore": 2,
+    "overallRank": "CHROMIUM",
+    "gacOffense": 3,
+    "gacDefense": 3,
+    "gacOverall": 3,
+    "gacRank": "AURODIUM",
+    "gacOmis": 1,
+    "twOffense": 1,
+    "twDefense": 1,
+    "twOverall": 1,
+    "twRank": "BRONZIUM",
+    "twOmis": 0
+  },
+  {
+    "id": "saw_gerrera",
+    "name": "Saw Gerrera",
+    "composition": [
+      ""
+    ],
+    "options": [],
+    "overallScore": 2,
+    "overallRank": "CHROMIUM",
+    "gacOffense": 2,
+    "gacDefense": 2,
+    "gacOverall": 2,
+    "gacRank": "CHROMIUM",
+    "gacOmis": 0,
+    "twOffense": 2,
+    "twDefense": 2,
+    "twOverall": 2,
+    "twRank": "CHROMIUM",
+    "twOmis": 0
+  },
+  {
+    "id": "inquisitors",
+    "name": "Inquisitors",
+    "composition": [
+      ""
+    ],
+    "options": [],
+    "overallScore": 2,
+    "overallRank": "CHROMIUM",
+    "gacOffense": 2,
+    "gacDefense": 2,
+    "gacOverall": 2,
+    "gacRank": "CHROMIUM",
+    "gacOmis": 0,
+    "twOffense": 2,
+    "twDefense": 2,
+    "twOverall": 2,
+    "twRank": "CHROMIUM",
+    "twOmis": 0
+  },
+  {
+    "id": "hutt_cartel_hc",
+    "name": "Hutt Cartel\r\n(HC)",
+    "composition": [
+      ""
+    ],
+    "options": [],
+    "overallScore": 2,
+    "overallRank": "CHROMIUM",
+    "gacOffense": 2,
+    "gacDefense": 2,
+    "gacOverall": 2,
+    "gacRank": "CHROMIUM",
+    "gacOmis": 0,
+    "twOffense": 2,
+    "twDefense": 2,
+    "twOverall": 2,
+    "twRank": "CHROMIUM",
+    "twOmis": 0
+  },
+  {
+    "id": "separatists_pre_admiral_trench",
+    "name": "Separatists\r\n(Pre-Admiral Trench)",
+    "composition": [
+      ""
+    ],
+    "options": [],
+    "overallScore": 2,
+    "overallRank": "CHROMIUM",
+    "gacOffense": 2,
+    "gacDefense": 2,
+    "gacOverall": 2,
+    "gacRank": "CHROMIUM",
+    "gacOmis": 0,
+    "twOffense": 2,
+    "twDefense": 2,
+    "twOverall": 2,
+    "twRank": "CHROMIUM",
+    "twOmis": 0
+  },
+  {
+    "id": "jawas",
+    "name": "Jawas",
+    "composition": [
+      ""
+    ],
+    "options": [],
+    "overallScore": 1.5,
+    "overallRank": "BRONZIUM",
+    "gacOffense": 1,
+    "gacDefense": 1,
+    "gacOverall": 1,
+    "gacRank": "BRONZIUM",
+    "gacOmis": 0,
+    "twOffense": 2,
+    "twDefense": 2,
+    "twOverall": 2,
+    "twRank": "CHROMIUM",
+    "twOmis": 1
+  },
+  {
+    "id": "old_republic_or",
+    "name": "Old Republic\r\n(OR)",
+    "composition": [
+      ""
+    ],
+    "options": [],
+    "overallScore": 1,
+    "overallRank": "BRONZIUM",
+    "gacOffense": 1,
+    "gacDefense": 1,
+    "gacOverall": 1,
+    "gacRank": "BRONZIUM",
+    "gacOmis": 0,
+    "twOffense": 1,
+    "twDefense": 1,
+    "twOverall": 1,
+    "twRank": "BRONZIUM",
+    "twOmis": 0
+  }
+]

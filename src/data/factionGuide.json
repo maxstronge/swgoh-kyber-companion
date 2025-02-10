@@ -1,0 +1,32 @@
+[
+    {
+      "id": "galactic_republic",
+      "name": "Galactic Republic",
+      "banner": "/images/factions/galactic_republic.png",
+      "team": [
+        "jedi_master_kenobi",
+        "general_kenobi",
+        "ahsoka_tano",
+        "commander_ahsoka",
+        "cat"
+      ],
+      "zeta_order": [
+        {
+          "character": "jedi_master_kenobi",
+          "ability": "May the Force Be With You",
+          "icon": "/images/abilities/may_the_force.png",
+          "priority": "Top Priority"
+        }
+      ],
+      "omicron_order": [
+        {
+          "character": "commander_ahsoka",
+          "ability": "Battle Meditation",
+          "icon": "/images/abilities/battle_meditation.png",
+          "priority": "Top Priority",
+          "game_mode": "GAC"
+        }
+      ]
+    }
+  ]
+  

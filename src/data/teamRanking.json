@@ -1,0 +1,52 @@
+[
+    {
+      "id": "leia",
+      "name": "Leia Organa (GLO)",
+      "composition": [
+        "GLLEIA",
+        "CAPTAINDROGAN",
+        "R2D2_LEGENDARY",
+        "BAZEMALBUS",
+        "MONMOTHMA"
+      ],
+      "overallScore": 9.5,
+      "overallRank": "Galactic Legend",
+      "gacOffense": 10,
+      "gacDefense": 9,
+      "gacOverall": 9.5,
+      "gacRank": "Galactic Legend",
+      "twOffense": 9,
+      "twDefense": 9,
+      "twOverall": 9,
+      "twRank": "Galactic Legend",
+      "twOmis": 0,
+      "gacOmis": 0
+
+    },
+
+    {
+      "id": "GLAT",
+      "name": "Ahsoka Tano (AT)",
+      "composition": [
+        "GLAHSOKATANO",
+        "EZRAEXILE",
+        "PADAWANSABINE",
+        "GENERALSYNDULLA",
+        "HUYANG"
+      ],
+      "overallScore": 9.5,
+      "overallRank": "Galactic Legend",
+      "gacOffense": 10,
+      "gacDefense": 9,
+      "gacOverall": 9.5,
+      "gacRank": "Galactic Legend",
+      "twOffense": 10,
+      "twDefense": 9,
+      "twOverall": 9.5,
+      "twRank": "Galactic Legend",
+      "twOmis": 1,
+      "gacOmis": 2
+    
+    }
+  ]
+  
