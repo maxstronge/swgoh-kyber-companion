@@ -1,32 +1,792 @@
 [
-    {
-      "id": "galactic_republic",
-      "name": "Galactic Republic",
-      "banner": "/images/factions/galactic_republic.png",
-      "team": [
-        "jedi_master_kenobi",
-        "general_kenobi",
-        "ahsoka_tano",
-        "commander_ahsoka",
-        "cat"
-      ],
-      "zeta_order": [
-        {
-          "character": "jedi_master_kenobi",
-          "ability": "May the Force Be With You",
-          "icon": "/images/abilities/may_the_force.png",
-          "priority": "Top Priority"
-        }
-      ],
-      "omicron_order": [
-        {
-          "character": "commander_ahsoka",
-          "ability": "Battle Meditation",
-          "icon": "/images/abilities/battle_meditation.png",
-          "priority": "Top Priority",
-          "game_mode": "GAC"
-        }
-      ]
-    }
-  ]
-  
+  {
+    "id": "501st",
+    "name": "501st",
+    "icon": "/factionicons/501st.png",
+    "zetas": [
+      {
+        "priority_group": "1",
+        "abilities": [
+          {
+            "priority": 1,
+            "character": "GENERALSKYWALKER",
+            "character_icon": "/characterprofiles/tex.charui_generalanakin.png",
+            "ability": "The Chosen One",
+            "ability_icon": "/default_ability_icon.png"
+          },
+          {
+            "priority": 2,
+            "character": "GENERALSKYWALKER",
+            "character_icon": "/characterprofiles/tex.charui_generalanakin.png",
+            "ability": "Hero With No Fear",
+            "ability_icon": "/default_ability_icon.png"
+          },
+          {
+            "priority": 3,
+            "character": "GENERALSKYWALKER",
+            "character_icon": "/characterprofiles/tex.charui_generalanakin.png",
+            "ability": "Furious Slash",
+            "ability_icon": "/default_ability_icon.png"
+          },
+          {
+            "priority": 4,
+            "character": "CT5555",
+            "character_icon": "/characterprofiles/tex.charui_trooperclone_fives.png",
+            "ability": "Tactical Awareness",
+            "ability_icon": "/default_ability_icon.png"
+          },
+          {
+            "priority": 5,
+            "character": "CT7567",
+            "character_icon": "/characterprofiles/tex.charui_trooperclone_rex.png",
+            "ability": "Captain of the 501st",
+            "ability_icon": "/default_ability_icon.png"
+          }
+        ]
+      },
+      {
+        "priority_group": "2",
+        "abilities": [
+          {
+            "priority": 6,
+            "character": "CT5555",
+            "character_icon": "/characterprofiles/tex.charui_trooperclone_fives.png",
+            "ability": "Domino Squad",
+            "ability_icon": "/default_ability_icon.png"
+          },
+          {
+            "priority": 7,
+            "character": "AHSOKATANO",
+            "character_icon": "/characterprofiles/tex.charui_ahsoka.png",
+            "ability": "Daring Padawan",
+            "ability_icon": "/default_ability_icon.png"
+          },
+          {
+            "priority": 8,
+            "character": "GENERALSKYWALKER",
+            "character_icon": "/characterprofiles/tex.charui_generalanakin.png",
+            "ability": "General of the 501st",
+            "ability_icon": "/default_ability_icon.png"
+          }
+        ]
+      },
+      {
+        "priority_group": "3",
+        "abilities": [
+          {
+            "priority": 9,
+            "character": "CT210408",
+            "character_icon": "/characterprofiles/tex.charui_trooperclone_echo.png",
+            "ability": "Domino Squad",
+            "ability_icon": "/default_ability_icon.png"
+          },
+          {
+            "priority": 10,
+            "character": "ARCTROOPER501ST",
+            "character_icon": "/characterprofiles/tex.charui_trooperclone_arc.png",
+            "ability": "ARC Arsenal",
+            "ability_icon": "/default_ability_icon.png"
+          }
+        ]
+      }
+    ],
+    "omicrons": []
+  },
+  {
+    "id": "badbatch",
+    "name": "Bad Batch",
+    "icon": "/factionicons/badbatch.png",
+    "zetas": [
+      {
+        "priority_group": "1",
+        "abilities": [
+          {
+            "priority": 1,
+            "character": "BADBATCHHUNTER",
+            "character_icon": "/characterprofiles/tex.charui_bb_hunter.png",
+            "ability": "A Different Path",
+            "ability_icon": "/default_ability_icon.png"
+          },
+          {
+            "priority": 2,
+            "character": "BADBATCHECHO",
+            "character_icon": "/characterprofiles/tex.charui_bb_echo.png",
+            "ability": "One That Survives",
+            "ability_icon": "/default_ability_icon.png"
+          },
+          {
+            "priority": 3,
+            "character": "BADBATCHWRECKER",
+            "character_icon": "/characterprofiles/tex.charui_bb_wrecker.png",
+            "ability": "Dauntless Commando",
+            "ability_icon": "/default_ability_icon.png"
+          },
+          {
+            "priority": 4,
+            "character": "SHAAKTI",
+            "character_icon": "/characterprofiles/tex.charui_shaakti.png",
+            "ability": "Heightened Reflexes",
+            "ability_icon": "/default_ability_icon.png"
+          }
+        ]
+      },
+      {
+        "priority_group": "2",
+        "abilities": [
+          {
+            "priority": 5,
+            "character": "BADBATCHOMEGA",
+            "character_icon": "/characterprofiles/tex.charui_badbatchomega.png",
+            "ability": "Part of the Squad",
+            "ability_icon": "/default_ability_icon.png"
+          }
+        ]
+      },
+      {
+        "priority_group": "3",
+        "abilities": [
+          {
+            "priority": 6,
+            "character": "BADBATCHTECH",
+            "character_icon": "/characterprofiles/tex.charui_bb_tech.png",
+            "ability": "Clone Interpreter",
+            "ability_icon": "/default_ability_icon.png"
+          }
+        ]
+      },
+      {
+        "priority_group": "4",
+        "abilities": [
+          {
+            "priority": 7,
+            "character": "BADBATCHOMEGA",
+            "character_icon": "/characterprofiles/tex.charui_badbatchomega.png",
+            "ability": "Adaptive Learner",
+            "ability_icon": "/default_ability_icon.png"
+          }
+        ]
+      }
+    ],
+    "omicrons": []
+  },
+  {
+    "id": "bountyhunter",
+    "name": "Bounty Hunter",
+    "icon": "/factionicons/bountyhunter.png",
+    "zetas": [
+      {
+        "priority_group": "1",
+        "abilities": [
+          {
+            "priority": 1,
+            "character": "GREEFKARGA",
+            "character_icon": "/characterprofiles/tex.charui_greefkarga.png",
+            "ability": "Sweeten the Deal",
+            "ability_icon": "/default_ability_icon.png"
+          },
+          {
+            "priority": 2,
+            "character": "THEMANDALORIAN",
+            "character_icon": "/characterprofiles/tex.charui_mandalorian.png",
+            "ability": "Disciplined Bounty Hunter",
+            "ability_icon": "/default_ability_icon.png"
+          },
+          {
+            "priority": 3,
+            "character": "BOSSK",
+            "character_icon": "/characterprofiles/tex.charui_bossk.png",
+            "ability": "Trandoshan Rage",
+            "ability_icon": "/default_ability_icon.png"
+          },
+          {
+            "priority": 4,
+            "character": "BOSSK",
+            "character_icon": "/characterprofiles/tex.charui_bossk.png",
+            "ability": "On The Hunt",
+            "ability_icon": "/default_ability_icon.png"
+          },
+          {
+            "priority": 5,
+            "character": "GREEFKARGA",
+            "character_icon": "/characterprofiles/tex.charui_greefkarga.png",
+            "ability": "Bring Them In Cold",
+            "ability_icon": "/default_ability_icon.png"
+          },
+          {
+            "priority": 6,
+            "character": "JANGOFETT",
+            "character_icon": "/characterprofiles/tex.charui_jangofett.png",
+            "ability": "Notorious Reputation",
+            "ability_icon": "/default_ability_icon.png"
+          }
+        ]
+      },
+      {
+        "priority_group": "2",
+        "abilities": [
+          {
+            "priority": 7,
+            "character": "THEMANDALORIAN",
+            "character_icon": "/characterprofiles/tex.charui_mandalorian.png",
+            "ability": "Asset Acquisition",
+            "ability_icon": "/default_ability_icon.png"
+          },
+          {
+            "priority": 8,
+            "character": "BOBAFETT",
+            "character_icon": "/characterprofiles/tex.charui_bobafett.png",
+            "ability": "Bounty Hunter's Resolve",
+            "ability_icon": "/default_ability_icon.png"
+          }
+        ]
+      },
+      {
+        "priority_group": "3",
+        "abilities": [
+          {
+            "priority": 9,
+            "character": "FENNECSHAND",
+            "character_icon": "/characterprofiles/tex.charui_fennec.png",
+            "ability": "Making An Impression",
+            "ability_icon": "/default_ability_icon.png"
+          },
+          {
+            "priority": 10,
+            "character": "IG88",
+            "character_icon": "/characterprofiles/tex.charui_ig88.png",
+            "ability": "Adaptive Aim Algorithm",
+            "ability_icon": "/default_ability_icon.png"
+          },
+          {
+            "priority": 11,
+            "character": "GREEDO",
+            "character_icon": "/characterprofiles/tex.charui_greedo.png",
+            "ability": "Threaten",
+            "ability_icon": "/default_ability_icon.png"
+          },
+          {
+            "priority": 12,
+            "character": "EMBO",
+            "character_icon": "/characterprofiles/tex.charui_embo.png",
+            "ability": "Way of the the Kyuzo",
+            "ability_icon": "/default_ability_icon.png"
+          },
+          {
+            "priority": 13,
+            "character": "ZAMWESELL",
+            "character_icon": "/characterprofiles/tex.charui_zamwesell.png",
+            "ability": "Shapeshifter",
+            "ability_icon": "/default_ability_icon.png"
+          },
+          {
+            "priority": 14,
+            "character": "DENGAR",
+            "character_icon": "/characterprofiles/tex.charui_dengar.png",
+            "ability": "Grizzled Veteran",
+            "ability_icon": "/default_ability_icon.png"
+          },
+          {
+            "priority": 15,
+            "character": "BOBAFETTSCION",
+            "character_icon": "/characterprofiles/tex.charui_bobafettold.png",
+            "ability": "Fett Legacy",
+            "ability_icon": "/default_ability_icon.png"
+          },
+          {
+            "priority": 16,
+            "character": "JANGOFETT",
+            "character_icon": "/characterprofiles/tex.charui_jangofett.png",
+            "ability": "Anything To Get Ahead",
+            "ability_icon": "/default_ability_icon.png"
+          }
+        ]
+      },
+      {
+        "priority_group": "4",
+        "abilities": [
+          {
+            "priority": 17,
+            "character": "EMBO",
+            "character_icon": "/characterprofiles/tex.charui_embo.png",
+            "ability": "The Quiet Assassin",
+            "ability_icon": "/default_ability_icon.png"
+          },
+          {
+            "priority": 18,
+            "character": "KRRSANTAN",
+            "character_icon": "/characterprofiles/tex.charui_krrsantan.png",
+            "ability": "Champion of the Fighting Pits",
+            "ability_icon": "/default_ability_icon.png"
+          },
+          {
+            "priority": 19,
+            "character": "AURRA_SING",
+            "character_icon": "/characterprofiles/tex.charui_aurrasing.png",
+            "ability": "Game Plan",
+            "ability_icon": "/default_ability_icon.png"
+          },
+          {
+            "priority": 20,
+            "character": "AURRA_SING",
+            "character_icon": "/characterprofiles/tex.charui_aurrasing.png",
+            "ability": "Sniper's Expertise",
+            "ability_icon": "/default_ability_icon.png"
+          }
+        ]
+      }
+    ],
+    "omicrons": [
+      {
+        "priority_group": "1",
+        "abilities": [
+          {
+            "priority": 1,
+            "character": "ZAMWESELL",
+            "character_icon": "/characterprofiles/tex.charui_zamwesell.png",
+            "ability": "Shapeshifter",
+            "ability_icon": "/default_ability_icon.png",
+            "game_mode": "GAC"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "droid",
+    "name": "Droid",
+    "icon": "/factionicons/droid.png",
+    "zetas": [],
+    "omicrons": []
+  },
+  {
+    "id": "aphra",
+    "name": "Aphra",
+    "icon": "/factionicons/aphra.png",
+    "zetas": [
+      {
+        "priority_group": "1",
+        "abilities": [
+          {
+            "priority": 1,
+            "character": "DOCTORAPHRA",
+            "character_icon": "/characterprofiles/tex.charui_doctoraphra.png",
+            "ability": "Suspended Doctorate",
+            "ability_icon": "/default_ability_icon.png"
+          },
+          {
+            "priority": 2,
+            "character": "DOCTORAPHRA",
+            "character_icon": "/characterprofiles/tex.charui_doctoraphra.png",
+            "ability": "Droid Savant",
+            "ability_icon": "/default_ability_icon.png"
+          }
+        ]
+      },
+      {
+        "priority_group": "2",
+        "abilities": [
+          {
+            "priority": 3,
+            "character": "DOCTORAPHRA",
+            "character_icon": "/characterprofiles/tex.charui_doctoraphra.png",
+            "ability": "Dangerous Tech",
+            "ability_icon": "/default_ability_icon.png"
+          },
+          {
+            "priority": 4,
+            "character": "BT1",
+            "character_icon": "/characterprofiles/tex.charui_bt1.png",
+            "ability": "Homicidal Counterpart",
+            "ability_icon": "/default_ability_icon.png"
+          }
+        ]
+      },
+      {
+        "priority_group": "3",
+        "abilities": [
+          {
+            "priority": 5,
+            "character": "TRIPLEZERO",
+            "character_icon": "/characterprofiles/tex.charui_triplezero.png",
+            "ability": "Drain Organics",
+            "ability_icon": "/default_ability_icon.png"
+          }
+        ]
+      }
+    ],
+    "omicrons": [
+      {
+        "priority_group": "1",
+        "abilities": [
+          {
+            "priority": 1,
+            "character": "DOCTORAPHRA",
+            "character_icon": "/characterprofiles/tex.charui_doctoraphra.png",
+            "ability": "Suspended Doctorate",
+            "ability_icon": "/default_ability_icon.png",
+            "game_mode": "GAC"
+          }
+        ]
+      },
+      {
+        "priority_group": "2",
+        "abilities": [
+          {
+            "priority": 2,
+            "character": "DOCTORAPHRA",
+            "character_icon": "/characterprofiles/tex.charui_doctoraphra.png",
+            "ability": "Rogue Archaeology",
+            "ability_icon": "/default_ability_icon.png",
+            "game_mode": "GAC"
+          },
+          {
+            "priority": 3,
+            "character": "DOCTORAPHRA",
+            "character_icon": "/characterprofiles/tex.charui_doctoraphra.png",
+            "ability": "Droid Savant",
+            "ability_icon": "/default_ability_icon.png",
+            "game_mode": "GAC"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "empire",
+    "name": "Empire",
+    "icon": "/factionicons/empire.png",
+    "zetas": [],
+    "omicrons": []
+  },
+  {
+    "id": "ewok",
+    "name": "Ewok",
+    "icon": "/factionicons/ewok.png",
+    "zetas": [
+      {
+        "priority_group": "1",
+        "abilities": [
+          {
+            "priority": 1,
+            "character": "CHIEFCHIRPA",
+            "character_icon": "/characterprofiles/tex.charui_ewok_chirpa.png",
+            "ability": "Simple Tactics",
+            "ability_icon": "/default_ability_icon.png"
+          }
+        ]
+      },
+      {
+        "priority_group": "2",
+        "abilities": [
+          {
+            "priority": 2,
+            "character": "LOGRAY",
+            "character_icon": "/characterprofiles/tex.charui_ewok_logray.png",
+            "ability": "Shaman's Insight",
+            "ability_icon": "/default_ability_icon.png"
+          }
+        ]
+      },
+      {
+        "priority_group": "3",
+        "abilities": [
+          {
+            "priority": 3,
+            "character": "PAPLOO",
+            "character_icon": "/characterprofiles/tex.charui_ewok_paploo.png",
+            "ability": "Don't Hold Back",
+            "ability_icon": "/default_ability_icon.png"
+          }
+        ]
+      },
+      {
+        "priority_group": "4",
+        "abilities": [
+          {
+            "priority": 4,
+            "character": "PRINCESSKNEESAA",
+            "character_icon": "/characterprofiles/tex.charui_princesskneesaa.png",
+            "ability": "Yub Nub",
+            "ability_icon": "/default_ability_icon.png"
+          }
+        ]
+      }
+    ],
+    "omicrons": []
+  },
+  {
+    "id": "gungans",
+    "name": "Gungans",
+    "icon": "/factionicons/gungans.png",
+    "zetas": [
+      {
+        "priority_group": "1",
+        "abilities": [
+          {
+            "priority": 1,
+            "character": "BOSSNASS",
+            "character_icon": "/characterprofiles/tex.charui_bossnass.png",
+            "ability": "Boss of Otoh Gunga",
+            "ability_icon": "/default_ability_icon.png"
+          },
+          {
+            "priority": 2,
+            "character": "JARJARBINKS",
+            "character_icon": "/characterprofiles/tex.charui_jarjarbinks.png",
+            "ability": "Mooie-Mooie, I Love You",
+            "ability_icon": "/default_ability_icon.png"
+          },
+          {
+            "priority": 3,
+            "character": "JARJARBINKS",
+            "character_icon": "/characterprofiles/tex.charui_jarjarbinks.png",
+            "ability": "Mesa Okeyday",
+            "ability_icon": "/default_ability_icon.png"
+          },
+          {
+            "priority": 4,
+            "character": "BOSSNASS",
+            "character_icon": "/characterprofiles/tex.charui_bossnass.png",
+            "ability": "Ankura Resilience",
+            "ability_icon": "/default_ability_icon.png"
+          },
+          {
+            "priority": 5,
+            "character": "CAPTAINTARPALS",
+            "character_icon": "/characterprofiles/tex.charui_captaintarpals.png",
+            "ability": "Mesa Tink of Something",
+            "ability_icon": "/default_ability_icon.png"
+          }
+        ]
+      },
+      {
+        "priority_group": "2",
+        "abilities": [
+          {
+            "priority": 6,
+            "character": "GUNGANPHALANX",
+            "character_icon": "/characterprofiles/tex.charui_gunganphalanx.png",
+            "ability": "Let Mesa Help",
+            "ability_icon": "/default_ability_icon.png"
+          },
+          {
+            "priority": 7,
+            "character": "BOOMADIER",
+            "character_icon": "/characterprofiles/tex.charui_gunganboomadier.png",
+            "ability": "Grand Army Specialist",
+            "ability_icon": "/default_ability_icon.png"
+          }
+        ]
+      },
+      {
+        "priority_group": "3",
+        "abilities": [
+          {
+            "priority": 8,
+            "character": "JARJARBINKS",
+            "character_icon": "/characterprofiles/tex.charui_jarjarbinks.png",
+            "ability": "Wesa Warriors",
+            "ability_icon": "/default_ability_icon.png"
+          }
+        ]
+      }
+    ],
+    "omicrons": [
+      {
+        "priority_group": "1",
+        "abilities": [
+          {
+            "priority": 1,
+            "character": "JARJARBINKS",
+            "character_icon": "/characterprofiles/tex.charui_jarjarbinks.png",
+            "ability": "Uh Oh, Big Boomas",
+            "ability_icon": "/default_ability_icon.png",
+            "game_mode": "GAC"
+          },
+          {
+            "priority": 2,
+            "character": "JARJARBINKS",
+            "character_icon": "/characterprofiles/tex.charui_jarjarbinks.png",
+            "ability": "Mooie-Mooie, I Love You",
+            "ability_icon": "/default_ability_icon.png",
+            "game_mode": "GAC"
+          },
+          {
+            "priority": 3,
+            "character": "BOSSNASS",
+            "character_icon": "/characterprofiles/tex.charui_bossnass.png",
+            "ability": "Boss of Otoh Gunga",
+            "ability_icon": "/default_ability_icon.png",
+            "game_mode": "TW"
+          }
+        ]
+      },
+      {
+        "priority_group": "2",
+        "abilities": [
+          {
+            "priority": 4,
+            "character": "JARJARBINKS",
+            "character_icon": "/characterprofiles/tex.charui_jarjarbinks.png",
+            "ability": "Mesa Okeyday",
+            "ability_icon": "/default_ability_icon.png",
+            "game_mode": "GAC"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "geonosians",
+    "name": "Geonosians",
+    "icon": "/factionicons/geonosians.png",
+    "zetas": [
+      {
+        "priority_group": "1",
+        "abilities": [
+          {
+            "priority": 1,
+            "character": "GEONOSIANBROODALPHA",
+            "character_icon": "/characterprofiles/tex.charui_geonosian_broodalpha.png",
+            "ability": "Queen's Will",
+            "ability_icon": "/default_ability_icon.png"
+          },
+          {
+            "priority": 2,
+            "character": "GEONOSIANBROODALPHA",
+            "character_icon": "/characterprofiles/tex.charui_geonosian_broodalpha.png",
+            "ability": "Geonosian Swarm",
+            "ability_icon": "/default_ability_icon.png"
+          }
+        ]
+      }
+    ],
+    "omicrons": []
+  },
+  {
+    "id": "huttcartel",
+    "name": "Hutt Cartel",
+    "icon": "/factionicons/huttcartel.png",
+    "zetas": [
+      {
+        "priority_group": "1",
+        "abilities": [
+          {
+            "priority": 1,
+            "character": "JABBATHEHUTT",
+            "character_icon": "/characterprofiles/tex.charui_jabbathehutt.png",
+            "ability": "His High Exaltedness",
+            "ability_icon": "/default_ability_icon.png"
+          },
+          {
+            "priority": 2,
+            "character": "JABBATHEHUTT",
+            "character_icon": "/characterprofiles/tex.charui_jabbathehutt.png",
+            "ability": "Illicit Business",
+            "ability_icon": "/default_ability_icon.png"
+          },
+          {
+            "priority": 3,
+            "character": "JABBATHEHUTT",
+            "character_icon": "/characterprofiles/tex.charui_jabbathehutt.png",
+            "ability": "Crumb's Revenge",
+            "ability_icon": "/default_ability_icon.png"
+          },
+          {
+            "priority": 4,
+            "character": "JABBATHEHUTT",
+            "character_icon": "/characterprofiles/tex.charui_jabbathehutt.png",
+            "ability": "The Illustrious",
+            "ability_icon": "/default_ability_icon.png"
+          },
+          {
+            "priority": 5,
+            "character": "BOUSHH",
+            "character_icon": "/characterprofiles/tex.charui_boushh.png",
+            "ability": "Fearless",
+            "ability_icon": "/default_ability_icon.png"
+          },
+          {
+            "priority": 6,
+            "character": "UNDERCOVERLANDO",
+            "character_icon": "/characterprofiles/tex.charui_undercoverlando.png",
+            "ability": "Covert Coordination",
+            "ability_icon": "/default_ability_icon.png"
+          },
+          {
+            "priority": 7,
+            "character": "JABBATHEHUTT",
+            "character_icon": "/characterprofiles/tex.charui_jabbathehutt.png",
+            "ability": "Crime Lord",
+            "ability_icon": "/default_ability_icon.png"
+          }
+        ]
+      },
+      {
+        "priority_group": "2",
+        "abilities": [
+          {
+            "priority": 8,
+            "character": "JABBATHEHUTT",
+            "character_icon": "/characterprofiles/tex.charui_jabbathehutt.png",
+            "ability": "Galactic Legend",
+            "ability_icon": "/default_ability_icon.png"
+          }
+        ]
+      },
+      {
+        "priority_group": "3",
+        "abilities": [
+          {
+            "priority": 9,
+            "character": "KRRSANTAN",
+            "character_icon": "/characterprofiles/tex.charui_krrsantan.png",
+            "ability": "Champion of the Fighting Pits",
+            "ability_icon": "/default_ability_icon.png"
+          }
+        ]
+      }
+    ],
+    "omicrons": [
+      {
+        "priority_group": "1",
+        "abilities": [
+          {
+            "priority": 1,
+            "character": "EMBO",
+            "character_icon": "/characterprofiles/tex.charui_embo.png",
+            "ability": "Way of the Kyuzo",
+            "ability_icon": "/default_ability_icon.png",
+            "game_mode": "TW"
+          }
+        ]
+      },
+      {
+        "priority_group": "2",
+        "abilities": [
+          {
+            "priority": 2,
+            "character": "UNDERCOVERLANDO",
+            "character_icon": "/characterprofiles/tex.charui_undercoverlando.png",
+            "ability": "Agent On The Inside",
+            "ability_icon": "/default_ability_icon.png",
+            "game_mode": "TW"
+          }
+        ]
+      },
+      {
+        "priority_group": "3",
+        "abilities": [
+          {
+            "priority": 3,
+            "character": "KRRSANTAN",
+            "character_icon": "/characterprofiles/tex.charui_krrsantan.png",
+            "ability": "Champion of the Fighting Pits",
+            "ability_icon": "/default_ability_icon.png",
+            "game_mode": "GAC"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -80,8 +80,8 @@
     "twOmis": 0
   },
   {
-    "id": "jabba_the_hutt_jth",
-    "name": "Jabba the Hutt\r\n(JTH)",
+    "id": "jabba_the_hutt",
+    "name": "Jabba the Hutt",
     "composition": [
       "JABBATHEHUTT",
       "BOUSHH",
@@ -117,6 +117,7 @@
     ],
     "options": [
       "GRANDADMIRALTHRAWN",
+      "MOFFGIDEONS3",
       "NINTHSISTER",
       "THIRDSISTER",
       "GRANDINQUISITOR"
@@ -168,7 +169,8 @@
       "KYLORENUNMASKED"
     ],
     "options": [
-      "FIRSTORDEROFFICER"
+      "FIRSTORDEROFFICERMALE",
+      "FIRSTORDEREXECUTIONER"
     ],
     "overallScore": 8.25,
     "overallRank": "GALACTIC LEGEND",
@@ -184,8 +186,8 @@
     "twOmis": 0
   },
   {
-    "id": "reva_inquisitors",
-    "name": "Reva Inquisitors",
+    "id": "inquisitorius",
+    "name": "Inquisitorius",
     "composition": [
       "THIRDSISTER",
       "GRANDINQUISITOR",
@@ -221,7 +223,8 @@
       "JEDIKNIGHTREVAN"
     ],
     "options": [
-      "EZRAEXILE"
+      "EZRAEXILE",
+      "GRANDMASTERYODA"
     ],
     "overallScore": 7.5,
     "overallRank": "BESKAR",
@@ -243,7 +246,9 @@
       "SITHPALPATINE",
       "WATTAMBOR"
     ],
-    "options": [],
+    "options": [
+      "GEONOSIANBROODALPHA"
+    ],
     "overallScore": 7.5,
     "overallRank": "BESKAR",
     "gacOffense": 8,
@@ -282,16 +287,19 @@
     "twOmis": 1
   },
   {
-    "id": "baylan_skoll_bs",
-    "name": "Baylan Skoll\r\n(BS)",
+    "id": "baylan_skoll",
+    "name": "Baylan Skoll",
     "composition": [
       "BAYLANSKOLL",
       "SHINHATI",
-      "MARROK"
-    ],
-    "options": [
+      "MARROK",
       "QIRA",
       "HONDO"
+    ],
+    "options": [
+      "BOBAFETTSCION",
+      "DENGAR",
+      "CADBANE"
     ],
     "overallScore": 7,
     "overallRank": "BESKAR",
@@ -358,9 +366,17 @@
     "id": "bo_katan_mand_alor",
     "name": "Bo Katan (Mand'alor)",
     "composition": [
-      ""
+      "MANDALORBOKATAN",
+      "THEMANDALORIANBESKARARMOR",
+      "PAZVIZSLA",
+      "IG12",
+      "BOKATAN"
     ],
-    "options": [],
+    "options": [
+      "ARMORER",
+      "SABINEWRENS3",
+      "PADAWANSABINE"
+    ],
     "overallScore": 7,
     "overallRank": "BESKAR",
     "gacOffense": 7,
@@ -556,9 +572,15 @@
     "id": "general_skywalker_501st_with_captain_rex",
     "name": "General Skywalker 501st\r\nwith Captain Rex",
     "composition": [
-      "GENERALSKYWALKER"
+      "GENERALSKYWALKER",
+      "CT7567",
+      "CT5555",
+      "ARCTROOPER501ST",
+      "CAPTAINREX"
     ],
-    "options": [],
+    "options": [
+      "CT210408"
+    ],
     "overallScore": 6,
     "overallRank": "BESKAR",
     "gacOffense": 6,
@@ -626,7 +648,11 @@
     "id": "saw_gerrera_w_luthen_rael",
     "name": "Saw Gerrera w/ Luthen Rael",
     "composition": [
-      ""
+      "SAWGERRERA",
+      "LUTHENRAEL",
+      "KYLEKATARN",
+      "PAO",
+      "HOTHREBELSCOUT"
     ],
     "options": [],
     "overallScore": 5.25,
@@ -686,10 +712,15 @@
     "id": "general_grievous_gg",
     "name": "General Grievous\r\n(GG)",
     "composition": [
-      "GRIEVOUS"
+      "GRIEVOUS",
+      "STAP",
+      "B2SUPERBATTLEDROID",
+      "B1BATTLEDROIDV2",
+      "MAGNAGUARD"
     ],
     "options": [
-      "NUTEGUNRAY"
+      "NUTEGUNRAY",
+      "DROIDEKA"
     ],
     "overallScore": 5,
     "overallRank": "KYBER",
@@ -708,9 +739,16 @@
     "id": "zorii_resistance",
     "name": "Zorii Resistance",
     "composition": [
-      ""
+      "FINN",
+      "ZORIIBLISS_V2",
+      "POE",
+      "EPIXFINN",
+      "EPIXPOE",
+      "ROSETICO"
     ],
-    "options": [],
+    "options": [
+      "ADMIRALHOLDO"
+    ],
     "overallScore": 5,
     "overallRank": "BESKAR",
     "gacOffense": 6,
@@ -728,7 +766,11 @@
     "id": "nightsisters_ns",
     "name": "Nightsisters\r\n(NS)",
     "composition": [
-      ""
+      "MOTHERTALZIN",
+      "MERRIN",
+      "NIGHTSISTERZOMBIE",
+      "DAKA",
+      "ASAJVENTRESS"
     ],
     "options": [],
     "overallScore": 5,

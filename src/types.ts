@@ -29,28 +29,28 @@ export interface Character {
 }
 
 
+
+// New Ability interface for Zetas and Omicrons
+export interface Ability {
+  priority: number;
+  character: string;
+  character_icon: string;
+  ability: string;
+  ability_icon: string;
+  game_mode?: string;  // Only present for Omicrons
+}
+
+// Grouped abilities by priority (for Zetas & Omicrons)
+export interface AbilityGroup {
+  priority_group: string;
+  abilities: Ability[];
+}
+
+// Faction interface
 export interface Faction {
-  id: string;                // Unique identifier, e.g. "rebel_alliance"
-  name: string;              // e.g. "Rebel Alliance"
-  iconUrl?: string;          // optional faction banner/logo
-  members: string[];         // array of character IDs for that faction
-  zetas: ZetaRecommendation[];
-  omicrons: OmicronRecommendation[];
-}
-
-export interface ZetaRecommendation {
-  id: string;                // e.g. "luke_skywalker_lead_zeta"
-  characterId: string;       // "luke_skywalker"
-  abilityName: string;       // e.g. "Leader Ability: Return of the Jedi"
-  abilityIconUrl?: string;   // optional
-  priorityGroup: 'Top' | 'Second' | 'Third' | 'Low/Skippable';
-}
-
-export interface OmicronRecommendation {
   id: string;
-  characterId: string;
-  abilityName: string;
-  abilityIconUrl?: string;
-  priorityGroup: 'Top' | 'Second' | 'Third' | 'Low/Skippable';
-  gameMode: 'GAC' | 'TW' | 'TB' | 'Raid' | 'Conquest' | 'Galactic Challenges';
+  name: string;
+  icon: string;
+  zetas: AbilityGroup[];
+  omicrons: AbilityGroup[];
 }

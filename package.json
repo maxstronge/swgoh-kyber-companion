@@ -8,7 +8,9 @@
     "start": "next start",
     "lint": "next lint",
     "convert-chardata": "ts-node --project tsconfig.scripts.json scripts/convertCharacterExcel.ts",
-    "convert-teamData": "ts-node --project tsconfig.scripts.json scripts/convertTeamsExcel.ts"
+    "convert-teamData": "ts-node --project tsconfig.scripts.json scripts/convertTeamsExcel.ts",
+    "convert-factionData": "ts-node --project tsconfig.scripts.json scripts/convertFactions.ts",
+    "convert-abilityData": "ts-node --project tsconfig.scripts.json scripts/convertAbilityData.ts"
   },
   "dependencies": {
     "next": "15.1.6",
